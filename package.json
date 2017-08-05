@@ -1,0 +1,21 @@
+{
+  "author": "colohr",
+  "bugs": {
+    "url": "https://github.com/colohr/txy/issues"
+  },
+  "description": "A text & template proxy.",
+  "dependencies": {
+    "es6-template-strings": "^2.0.1",
+    "fxy": "^0.1.5",
+    "jsdom": "^11.1.0"
+  },
+  "homepage": "https://github.com/colohr/txy#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "txy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/txy.git"
+  },
+  "version": "0.0.1"
+}
