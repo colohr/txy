@@ -1,12 +1,10 @@
-TXY
+txy
 =============
+Pronunciation /ˈteksē/ or texy
 
-Install `txy` 
+--
+Note: `txy` is not finished & should not be used for your projects. 
 -------------
 ```
   npm uninstall txy
 ```
-
-`
-
-`
